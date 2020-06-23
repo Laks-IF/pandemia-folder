@@ -1,0 +1,19 @@
+Puede ver el Folder en este link, en Figma:
+https://www.figma.com/file/XpGZ2eQw1TBMycPyR8d3cV/Portugues-Folder-Pandemia?node-id=4%3A61
+
+El folder también está disponible en este link, en Github para descargar
+https://github.com/Laks-IF/pandemia-folder
+
+El folder está disponible en los siguientes formatos en esta folder/ carpeta comprimida:
+.png (Imagen)
+.jpg (Imagen)
+.svg (Imagen - Gráficos vectoriales escalables, es decir, no pierde resolución)
+.pdf (documento)
+
+Estudiantes:
+Laks Castro
+Lucas Aparecido
+Kymie Silva
+
+Clase:
+3°B Informática
